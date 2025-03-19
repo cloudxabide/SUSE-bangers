@@ -28,7 +28,7 @@ The distro, keep on thriving
 
 Code.... keep on forking
 Party repos... you best believin'
-That more code will come along
+More code will come along
 'Cause SUSE won't let you down, fo-show
 
 SUSE-teachers, a-keep on teachin'

@@ -1,7 +1,7 @@
 # Higher Ground
 
 ## Status
-In Progress
+In Progress - gathering phrases, will realign/curate later
 
 ## Lyrics
 <pre>
@@ -20,6 +20,7 @@ Container's not startin, better try it again
 CrashLoopBackOff and they're dyin within
 Push to the repo and we're tryin again
 Keep on tryin, Til we reach a higher ground
+
 [verse 2]
 Enterprises, keep on trusting
 While our code keeps on pushing
@@ -36,7 +37,7 @@ SUSE-preachers, a-keep on preachin'
 World, keep on turnin'
 'Cause SUSE won't let you down, fo-show
 
-
+[outro]
 Open Source Gurus say...Nobody is smarter than all of us
 Collaboration is the way
 </pre>
